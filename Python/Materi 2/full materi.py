@@ -50,7 +50,9 @@ while True:
         break
     else:
         print("Pilihan tidak valid. Silakan coba lagi.")    
-        
+
+
+# ----- STOP!!! KELAS B UJIANNYA INI -----
 # Antrian sebagai list
 queue = []
 
@@ -104,6 +106,9 @@ while True:
     else:
         print("Pilihan tidak valid. Silakan coba lagi.")
         
+# ----- SAMPAI SINI ------
+
+
 # Struktur graph menggunakan dictionary
 graph = {}
 
