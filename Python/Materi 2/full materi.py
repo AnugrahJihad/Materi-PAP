@@ -1,3 +1,4 @@
+# ----- STOP!!! KELAS A UJIANNYA INI -----
 # Stack sebagai list
 stack = []
 
@@ -50,6 +51,8 @@ while True:
         break
     else:
         print("Pilihan tidak valid. Silakan coba lagi.")    
+
+# ----- SAMPAI SINI ------
 
 
 # ----- STOP!!! KELAS B UJIANNYA INI -----
